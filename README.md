@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Peter Keappock</h1>
+<h1 align="center">Hi 👋, I'm Peter Keappock</h1>
 <h3 align="center">Im studying a BSc (Hons) in Applied Computing (Cloud & Networks) at SETU Waterford!</h3>
 
 # 💫 About Me:
