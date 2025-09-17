@@ -38,12 +38,19 @@
  <img src="https://streak-stats.demolab.com?user=peterk04&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</div>
+### You can reach me here:
+<p>
+    <a href="mailto:peterkeappock@gmail.com" target="blank">
+        <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="peterkeappock@gmail.com" height="30" style="vertical-align:middle; margin:5px"/>
+        Email
+    </a>
+</p>
+<p>
+    <a href="https://www.linkedin.com/in/peter-keappock/" target="blank">
+        <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="peter-keappock" height="30" style="vertical-align:middle; margin:5px"/>
+        LinkedIn
+    </a>
+</p>
 
 ![snake gif](https://github.com/Peterk04/Peterk04/blob/output/github-snake-dark.svg)
 
