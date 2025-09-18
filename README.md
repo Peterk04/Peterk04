@@ -38,7 +38,7 @@
  <img src="https://streak-stats.demolab.com?user=peterk04&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-### You can reach me here:
+### Connect with me here!:
 <p>
     <a href="mailto:peterkeappock@gmail.com" target="blank">
         <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="peterkeappock@gmail.com" height="30" style="vertical-align:middle; margin:5px"/>
