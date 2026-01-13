@@ -2,7 +2,7 @@
 <h3 align="center">Im studying a BSc (Hons) in Applied Computing (Cloud & Networks) at SETU Waterford</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on a gym-tracking app to log sets and progress  <br>🤝 I’m looking for help with best practices for containerisation with podman and k8s  <br>🌱 I’m currently learning RedHat do188 with Podman, Buildah, and Skopeo, and exploring Kubernetes fundamentals  
+🔭 I’m currently trying to learn about the open source community  <br>🌱 I’m interning in RedHat as a Software Engineer on the OpenShift AI DevOps team 
 
 
 # 💻 Tech Stack:
