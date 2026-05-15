@@ -4,7 +4,7 @@
 # 💫 About Me:
 <br>🌱 I’m interning in RedHat as a Software Engineer on the OpenShift AI DevOps team 
 
-[![Peterk04's GitHub stats](https://github-readme-stats-two-nu.vercel.app/api?username=Peterk04&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Peterk04's GitHub stats](https://github-readme-stats-two-nu.vercel.app/api?username=Peterk04&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # 💻 Tech Stack:
 <div align="center">
