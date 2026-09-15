@@ -2,7 +2,7 @@
 <h3 align="center">Im studying a BSc (Hons) in Applied Computing (Cloud & Networks) at SETU Waterford</h3>
 
 # 💫 About Me:
-<br>🌱 I’m interning in RedHat as a Software Engineer on the OpenShift AI DevOps team 
+<br>🌱 Currently in my fourth (final) year with an interest in cloud computing, devops and aiops
 
 [![Peterk04's GitHub stats](https://github-readme-stats-two-nu.vercel.app/api?username=Peterk04&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
